@@ -1,0 +1,5 @@
+C:\Users\Whis\Desktop\LTM\LTM_Thuchanh_B8\Broadcast-Client\bin\Debug\Broadcast-Client.exe.config
+C:\Users\Whis\Desktop\LTM\LTM_Thuchanh_B8\Broadcast-Client\bin\Debug\Broadcast-Client.exe
+C:\Users\Whis\Desktop\LTM\LTM_Thuchanh_B8\Broadcast-Client\bin\Debug\Broadcast-Client.pdb
+C:\Users\Whis\Desktop\LTM\LTM_Thuchanh_B8\Broadcast-Client\obj\Debug\Broadcast-Client.exe
+C:\Users\Whis\Desktop\LTM\LTM_Thuchanh_B8\Broadcast-Client\obj\Debug\Broadcast-Client.pdb

@@ -1,0 +1,6 @@
+C:\Users\Whis\Desktop\LTM\LTM_Thuchanh_B8\Broadcast\bin\Debug\Broadcast.exe.config
+C:\Users\Whis\Desktop\LTM\LTM_Thuchanh_B8\Broadcast\bin\Debug\Broadcast.exe
+C:\Users\Whis\Desktop\LTM\LTM_Thuchanh_B8\Broadcast\bin\Debug\Broadcast.pdb
+C:\Users\Whis\Desktop\LTM\LTM_Thuchanh_B8\Broadcast\obj\Debug\Broadcast-Server.csprojResolveAssemblyReference.cache
+C:\Users\Whis\Desktop\LTM\LTM_Thuchanh_B8\Broadcast\obj\Debug\Broadcast.exe
+C:\Users\Whis\Desktop\LTM\LTM_Thuchanh_B8\Broadcast\obj\Debug\Broadcast.pdb
